@@ -1,24 +1,10 @@
-# README
+# Faraday-Test
+Simple Rails Client project to test Faraday API Gem to be used with https://github.com/HWallenberg/test-api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Taken from https://www.youtube.com/watch?v=nAVM3Ywck0A 
 
-Things you may want to cover:
+To run client do:
+<br>  ```rails s -p 3000```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To run api do:
+<br>  ```rails s -p 3001```
